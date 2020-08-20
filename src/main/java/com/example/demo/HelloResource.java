@@ -10,7 +10,7 @@ public class HelloResource {
 	
 	@GetMapping
 	public String hello() {
-		return "Hello, how are you?";
+		return "Hi, how are you?";
 	}
 
 }
